@@ -1,0 +1,328 @@
+2021-10-21 10:17:14,918 - com.banking.testCases.BaseClass -INFO - URL is opened
+2021-10-21 10:17:15,187 - com.banking.testCases.BaseClass -INFO - Entered username
+2021-10-21 10:17:15,366 - com.banking.testCases.BaseClass -INFO - Entered password
+2021-10-21 10:17:15,883 - com.banking.testCases.BaseClass -INFO - Login test passed
+2021-10-21 10:19:54,570 - com.banking.testCases.BaseClass -INFO - URL is opened
+2021-10-21 10:19:54,741 - com.banking.testCases.BaseClass -INFO - Entered username
+2021-10-21 10:19:54,878 - com.banking.testCases.BaseClass -INFO - Entered password
+2021-10-21 10:19:55,435 - com.banking.testCases.BaseClass -INFO - Login test passed
+2021-10-21 10:57:38,749 - com.banking.testCases.BaseClass -INFO - URL is opened
+2021-10-21 10:57:39,046 - com.banking.testCases.BaseClass -INFO - Entered username
+2021-10-21 10:57:39,130 - com.banking.testCases.BaseClass -INFO - Entered password
+2021-10-21 10:57:39,772 - com.banking.testCases.BaseClass -INFO - Login test passed
+2021-10-25 10:46:39,610 - com.banking.testCases.BaseClass -INFO - URL is opened
+2021-10-25 10:46:39,836 - com.banking.testCases.BaseClass -INFO - Entered username
+2021-10-25 10:46:40,022 - com.banking.testCases.BaseClass -INFO - Entered password
+2021-10-25 10:46:40,581 - com.banking.testCases.BaseClass -INFO - Login test passed
+2021-10-25 11:16:15,112 - com.banking.testCases.BaseClass -INFO - URL is opened
+2021-10-25 11:16:15,268 - com.banking.testCases.BaseClass -INFO - Entered username
+2021-10-25 11:16:15,406 - com.banking.testCases.BaseClass -INFO - Entered password
+2021-10-25 11:16:15,886 - com.banking.testCases.BaseClass -INFO - Login test passed
+2021-10-26 11:17:11,943 - com.banking.testCases.BaseClass -INFO - URL is opened
+2021-10-26 11:17:12,056 - com.banking.testCases.BaseClass -INFO - Entered username
+2021-10-26 11:17:12,093 - com.banking.testCases.BaseClass -INFO - Entered password
+2021-10-26 11:17:12,703 - com.banking.testCases.BaseClass -INFO - Login test passed
+2021-10-26 12:26:07,867 - com.banking.testCases.BaseClass -INFO - URL is opened
+2021-10-26 12:26:08,017 - com.banking.testCases.BaseClass -INFO - Entered username
+2021-10-26 12:26:08,055 - com.banking.testCases.BaseClass -INFO - Entered password
+2021-10-26 12:26:08,785 - com.banking.testCases.BaseClass -INFO - Login test passed
+2021-10-26 12:36:04,546 - com.banking.testCases.BaseClass -INFO - URL is opened
+2021-10-26 12:36:04,668 - com.banking.testCases.BaseClass -INFO - Entered username
+2021-10-26 12:36:04,701 - com.banking.testCases.BaseClass -INFO - Entered password
+2021-10-26 12:40:58,366 - com.banking.testCases.BaseClass -INFO - URL is opened
+2021-10-26 12:40:58,527 - com.banking.testCases.BaseClass -INFO - Entered username
+2021-10-26 12:40:58,562 - com.banking.testCases.BaseClass -INFO - Entered password
+2021-10-26 13:20:52,286 - com.banking.testCases.BaseClass -INFO - URL is opened
+2021-10-26 13:20:52,411 - com.banking.testCases.BaseClass -INFO - Entered username
+2021-10-26 13:20:52,447 - com.banking.testCases.BaseClass -INFO - Entered password
+2021-10-26 13:23:22,002 - com.banking.testCases.BaseClass -INFO - URL is opened
+2021-10-26 13:23:22,131 - com.banking.testCases.BaseClass -INFO - Entered username
+2021-10-26 13:23:22,172 - com.banking.testCases.BaseClass -INFO - Entered password
+2021-10-26 13:24:43,590 - com.banking.testCases.BaseClass -INFO - URL is opened
+2021-10-26 13:24:43,752 - com.banking.testCases.BaseClass -INFO - Entered username
+2021-10-26 13:24:43,896 - com.banking.testCases.BaseClass -INFO - Entered password
+2021-10-26 13:27:56,413 - com.banking.testCases.BaseClass -INFO - URL is opened
+2021-10-26 13:27:56,582 - com.banking.testCases.BaseClass -INFO - Entered username
+2021-10-26 13:27:56,711 - com.banking.testCases.BaseClass -INFO - Entered password
+2021-10-26 13:35:02,374 - com.banking.testCases.BaseClass -INFO - URL is opened
+2021-10-26 13:35:02,527 - com.banking.testCases.BaseClass -INFO - Entered username
+2021-10-26 13:35:02,646 - com.banking.testCases.BaseClass -INFO - Entered password
+2021-10-27 09:15:03,443 - com.banking.testCases.BaseClass -INFO - URL is opened
+2021-10-27 09:15:03,709 - com.banking.testCases.BaseClass -INFO - Entered username
+2021-10-27 09:15:03,803 - com.banking.testCases.BaseClass -INFO - Entered password
+2021-10-27 09:15:04,486 - com.banking.testCases.BaseClass -INFO - Login test passed
+2021-10-27 09:22:13,883 - com.banking.testCases.BaseClass -INFO - URL is opened
+2021-10-27 09:22:14,117 - com.banking.testCases.BaseClass -INFO - Entered username
+2021-10-27 09:22:14,254 - com.banking.testCases.BaseClass -INFO - Entered password
+2021-10-27 09:22:14,917 - com.banking.testCases.BaseClass -INFO - Login test passed
+2021-10-27 09:22:45,276 - com.banking.testCases.BaseClass -INFO - URL is opened
+2021-10-27 09:22:45,483 - com.banking.testCases.BaseClass -INFO - Entered username
+2021-10-27 09:22:45,683 - com.banking.testCases.BaseClass -INFO - Entered password
+2021-10-27 09:30:33,629 - com.banking.testCases.BaseClass -INFO - URL is opened
+2021-10-27 09:30:33,846 - com.banking.testCases.BaseClass -INFO - Entered username
+2021-10-27 09:30:33,986 - com.banking.testCases.BaseClass -INFO - Entered password
+2021-10-27 09:31:02,512 - com.banking.testCases.BaseClass -INFO - URL is opened
+2021-10-27 09:31:02,728 - com.banking.testCases.BaseClass -INFO - Entered username
+2021-10-27 09:31:02,866 - com.banking.testCases.BaseClass -INFO - Entered password
+2021-10-27 11:25:31,421 - com.banking.testCases.BaseClass -INFO - URL is opened
+2021-10-27 11:25:31,556 - com.banking.testCases.BaseClass -INFO - Entered username
+2021-10-27 11:25:31,652 - com.banking.testCases.BaseClass -INFO - Entered password
+2021-10-27 11:25:32,048 - com.banking.testCases.BaseClass -INFO - Test case failed
+2021-10-27 11:25:32,442 - com.banking.testCases.BaseClass -INFO - URL is opened
+2021-10-27 11:25:32,531 - com.banking.testCases.BaseClass -INFO - Entered username
+2021-10-27 11:25:32,609 - com.banking.testCases.BaseClass -INFO - Entered password
+2021-10-27 11:25:32,805 - com.banking.testCases.BaseClass -INFO - Test case failed
+2021-10-27 11:25:33,238 - com.banking.testCases.BaseClass -INFO - URL is opened
+2021-10-27 11:25:33,329 - com.banking.testCases.BaseClass -INFO - Entered username
+2021-10-27 11:25:33,404 - com.banking.testCases.BaseClass -INFO - Entered password
+2021-10-27 11:25:33,747 - com.banking.testCases.BaseClass -INFO - Test case failed
+2021-10-27 11:25:34,086 - com.banking.testCases.BaseClass -INFO - URL is opened
+2021-10-27 11:25:34,207 - com.banking.testCases.BaseClass -INFO - Entered username
+2021-10-27 11:25:34,275 - com.banking.testCases.BaseClass -INFO - Entered password
+2021-10-27 11:25:34,575 - com.banking.testCases.BaseClass -INFO - Test case failed
+2021-10-27 11:25:35,105 - com.banking.testCases.BaseClass -INFO - URL is opened
+2021-10-27 11:25:35,211 - com.banking.testCases.BaseClass -INFO - Entered username
+2021-10-27 11:25:35,282 - com.banking.testCases.BaseClass -INFO - Entered password
+2021-10-27 11:25:35,589 - com.banking.testCases.BaseClass -INFO - Test case failed
+2021-10-27 11:25:35,959 - com.banking.testCases.BaseClass -INFO - URL is opened
+2021-10-27 11:25:36,078 - com.banking.testCases.BaseClass -INFO - Entered username
+2021-10-27 11:25:36,183 - com.banking.testCases.BaseClass -INFO - Entered password
+2021-10-27 11:25:36,856 - com.banking.testCases.BaseClass -INFO - Test case Passed
+2021-10-27 11:27:42,165 - com.banking.testCases.BaseClass -INFO - URL is opened
+2021-10-27 11:27:42,338 - com.banking.testCases.BaseClass -INFO - Entered username
+2021-10-27 11:27:42,499 - com.banking.testCases.BaseClass -INFO - Entered password
+2021-10-27 11:27:42,824 - com.banking.testCases.BaseClass -INFO - Test case failed
+2021-10-27 11:27:43,369 - com.banking.testCases.BaseClass -INFO - About to take screenshot
+2021-10-27 11:27:43,663 - com.banking.testCases.BaseClass -INFO - Screenshot taken
+2021-10-27 11:27:43,702 - com.banking.testCases.BaseClass -INFO - URL is opened
+2021-10-27 11:27:43,781 - com.banking.testCases.BaseClass -INFO - Entered username
+2021-10-27 11:27:43,859 - com.banking.testCases.BaseClass -INFO - Entered password
+2021-10-27 11:27:44,193 - com.banking.testCases.BaseClass -INFO - Test case failed
+2021-10-27 11:27:44,586 - com.banking.testCases.BaseClass -INFO - About to take screenshot
+2021-10-27 11:27:44,896 - com.banking.testCases.BaseClass -INFO - Screenshot taken
+2021-10-27 11:27:44,908 - com.banking.testCases.BaseClass -INFO - URL is opened
+2021-10-27 11:27:45,069 - com.banking.testCases.BaseClass -INFO - Entered username
+2021-10-27 11:27:45,208 - com.banking.testCases.BaseClass -INFO - Entered password
+2021-10-27 11:27:45,529 - com.banking.testCases.BaseClass -INFO - Test case failed
+2021-10-27 11:27:46,030 - com.banking.testCases.BaseClass -INFO - About to take screenshot
+2021-10-27 11:27:46,307 - com.banking.testCases.BaseClass -INFO - Screenshot taken
+2021-10-27 11:27:46,313 - com.banking.testCases.BaseClass -INFO - URL is opened
+2021-10-27 11:27:46,434 - com.banking.testCases.BaseClass -INFO - Entered username
+2021-10-27 11:27:46,521 - com.banking.testCases.BaseClass -INFO - Entered password
+2021-10-27 11:27:46,861 - com.banking.testCases.BaseClass -INFO - Test case failed
+2021-10-27 11:27:47,197 - com.banking.testCases.BaseClass -INFO - About to take screenshot
+2021-10-27 11:27:47,456 - com.banking.testCases.BaseClass -INFO - Screenshot taken
+2021-10-27 11:27:47,459 - com.banking.testCases.BaseClass -INFO - URL is opened
+2021-10-27 11:27:47,550 - com.banking.testCases.BaseClass -INFO - Entered username
+2021-10-27 11:27:47,636 - com.banking.testCases.BaseClass -INFO - Entered password
+2021-10-27 11:27:47,980 - com.banking.testCases.BaseClass -INFO - Test case failed
+2021-10-27 11:27:48,379 - com.banking.testCases.BaseClass -INFO - About to take screenshot
+2021-10-27 11:27:48,649 - com.banking.testCases.BaseClass -INFO - Screenshot taken
+2021-10-27 11:27:48,654 - com.banking.testCases.BaseClass -INFO - URL is opened
+2021-10-27 11:27:48,758 - com.banking.testCases.BaseClass -INFO - Entered username
+2021-10-27 11:27:48,854 - com.banking.testCases.BaseClass -INFO - Entered password
+2021-10-27 11:27:49,531 - com.banking.testCases.BaseClass -INFO - Test case Passed
+2021-10-27 11:34:02,267 - com.banking.testCases.BaseClass -INFO - URL is opened
+2021-10-27 11:34:02,400 - com.banking.testCases.BaseClass -INFO - Entered username
+2021-10-27 11:34:02,487 - com.banking.testCases.BaseClass -INFO - Entered password
+2021-10-27 11:34:05,789 - com.banking.testCases.BaseClass -INFO - Test case failed
+2021-10-27 11:34:05,790 - com.banking.testCases.BaseClass -INFO - About to take screenshot
+2021-10-27 11:34:05,922 - com.banking.testCases.BaseClass -INFO - URL is opened
+2021-10-27 11:34:06,271 - com.banking.testCases.BaseClass -INFO - Entered username
+2021-10-27 11:34:06,340 - com.banking.testCases.BaseClass -INFO - Entered password
+2021-10-27 11:34:09,632 - com.banking.testCases.BaseClass -INFO - Test case failed
+2021-10-27 11:34:09,634 - com.banking.testCases.BaseClass -INFO - About to take screenshot
+2021-10-27 11:34:09,720 - com.banking.testCases.BaseClass -INFO - URL is opened
+2021-10-27 11:34:10,376 - com.banking.testCases.BaseClass -INFO - Entered username
+2021-10-27 11:34:10,513 - com.banking.testCases.BaseClass -INFO - Entered password
+2021-10-27 11:34:13,917 - com.banking.testCases.BaseClass -INFO - Test case failed
+2021-10-27 11:34:13,922 - com.banking.testCases.BaseClass -INFO - About to take screenshot
+2021-10-27 11:34:13,981 - com.banking.testCases.BaseClass -INFO - URL is opened
+2021-10-27 11:34:14,778 - com.banking.testCases.BaseClass -INFO - Entered username
+2021-10-27 11:34:14,922 - com.banking.testCases.BaseClass -INFO - Entered password
+2021-10-27 11:34:18,272 - com.banking.testCases.BaseClass -INFO - Test case failed
+2021-10-27 11:34:18,273 - com.banking.testCases.BaseClass -INFO - About to take screenshot
+2021-10-27 11:34:18,342 - com.banking.testCases.BaseClass -INFO - URL is opened
+2021-10-27 11:34:19,105 - com.banking.testCases.BaseClass -INFO - Entered username
+2021-10-27 11:34:19,253 - com.banking.testCases.BaseClass -INFO - Entered password
+2021-10-27 11:34:22,607 - com.banking.testCases.BaseClass -INFO - Test case failed
+2021-10-27 11:34:22,608 - com.banking.testCases.BaseClass -INFO - About to take screenshot
+2021-10-27 11:34:22,669 - com.banking.testCases.BaseClass -INFO - URL is opened
+2021-10-27 11:34:23,309 - com.banking.testCases.BaseClass -INFO - Entered username
+2021-10-27 11:34:23,443 - com.banking.testCases.BaseClass -INFO - Entered password
+2021-10-27 11:34:27,064 - com.banking.testCases.BaseClass -INFO - Test case Passed
+2021-11-01 10:23:02,326 - com.banking.testCases.BaseClass -INFO - URL is opened
+2021-11-01 10:23:02,480 - com.banking.testCases.BaseClass -INFO - Entered username
+2021-11-01 10:23:02,568 - com.banking.testCases.BaseClass -INFO - Entered password
+2021-11-01 10:23:07,830 - com.banking.testCases.BaseClass -INFO - URL is opened
+2021-11-01 10:23:07,931 - com.banking.testCases.BaseClass -INFO - Entered username
+2021-11-01 10:23:08,035 - com.banking.testCases.BaseClass -INFO - Entered password
+2021-11-01 10:23:11,365 - com.banking.testCases.BaseClass -INFO - Test case failed
+2021-11-01 10:23:11,366 - com.banking.testCases.BaseClass -INFO - About to take screenshot
+2021-11-01 10:23:11,464 - com.banking.testCases.BaseClass -INFO - URL is opened
+2021-11-01 10:23:11,972 - com.banking.testCases.BaseClass -INFO - Entered username
+2021-11-01 10:23:12,168 - com.banking.testCases.BaseClass -INFO - Entered password
+2021-11-01 10:23:15,484 - com.banking.testCases.BaseClass -INFO - Test case failed
+2021-11-01 10:23:15,486 - com.banking.testCases.BaseClass -INFO - About to take screenshot
+2021-11-01 10:23:15,595 - com.banking.testCases.BaseClass -INFO - URL is opened
+2021-11-01 10:23:16,346 - com.banking.testCases.BaseClass -INFO - Entered username
+2021-11-01 10:23:16,494 - com.banking.testCases.BaseClass -INFO - Entered password
+2021-11-01 10:23:19,797 - com.banking.testCases.BaseClass -INFO - Test case failed
+2021-11-01 10:23:19,798 - com.banking.testCases.BaseClass -INFO - About to take screenshot
+2021-11-01 10:23:19,868 - com.banking.testCases.BaseClass -INFO - URL is opened
+2021-11-01 10:23:20,541 - com.banking.testCases.BaseClass -INFO - Entered username
+2021-11-01 10:23:20,676 - com.banking.testCases.BaseClass -INFO - Entered password
+2021-11-01 10:23:23,955 - com.banking.testCases.BaseClass -INFO - Test case failed
+2021-11-01 10:23:23,956 - com.banking.testCases.BaseClass -INFO - About to take screenshot
+2021-11-01 10:23:24,001 - com.banking.testCases.BaseClass -INFO - URL is opened
+2021-11-01 10:23:24,668 - com.banking.testCases.BaseClass -INFO - Entered username
+2021-11-01 10:23:24,808 - com.banking.testCases.BaseClass -INFO - Entered password
+2021-11-01 10:23:28,095 - com.banking.testCases.BaseClass -INFO - Test case failed
+2021-11-01 10:23:28,096 - com.banking.testCases.BaseClass -INFO - About to take screenshot
+2021-11-01 10:23:28,154 - com.banking.testCases.BaseClass -INFO - URL is opened
+2021-11-01 10:23:28,761 - com.banking.testCases.BaseClass -INFO - Entered username
+2021-11-01 10:23:28,896 - com.banking.testCases.BaseClass -INFO - Entered password
+2021-11-01 10:23:32,444 - com.banking.testCases.BaseClass -INFO - Test case Passed
+2021-11-01 10:27:16,084 - com.banking.testCases.BaseClass -INFO - URL is opened
+2021-11-01 10:27:16,381 - com.banking.testCases.BaseClass -INFO - Entered username
+2021-11-01 10:27:16,497 - com.banking.testCases.BaseClass -INFO - Entered password
+2021-11-01 10:27:17,126 - com.banking.testCases.BaseClass -INFO - Login test passed
+2021-11-01 10:27:21,322 - com.banking.testCases.BaseClass -INFO - URL is opened
+2021-11-01 10:27:21,477 - com.banking.testCases.BaseClass -INFO - Entered username
+2021-11-01 10:27:21,584 - com.banking.testCases.BaseClass -INFO - Entered password
+2021-11-01 10:27:24,959 - com.banking.testCases.BaseClass -INFO - Test case failed
+2021-11-01 10:27:24,960 - com.banking.testCases.BaseClass -INFO - About to take screenshot
+2021-11-01 10:27:25,056 - com.banking.testCases.BaseClass -INFO - URL is opened
+2021-11-01 10:27:25,746 - com.banking.testCases.BaseClass -INFO - Entered username
+2021-11-01 10:27:25,845 - com.banking.testCases.BaseClass -INFO - Entered password
+2021-11-01 10:27:29,164 - com.banking.testCases.BaseClass -INFO - Test case failed
+2021-11-01 10:27:29,166 - com.banking.testCases.BaseClass -INFO - About to take screenshot
+2021-11-01 10:27:29,271 - com.banking.testCases.BaseClass -INFO - URL is opened
+2021-11-01 10:27:29,891 - com.banking.testCases.BaseClass -INFO - Entered username
+2021-11-01 10:27:29,994 - com.banking.testCases.BaseClass -INFO - Entered password
+2021-11-01 10:27:33,313 - com.banking.testCases.BaseClass -INFO - Test case failed
+2021-11-01 10:27:33,314 - com.banking.testCases.BaseClass -INFO - About to take screenshot
+2021-11-01 10:27:33,412 - com.banking.testCases.BaseClass -INFO - URL is opened
+2021-11-01 10:27:33,908 - com.banking.testCases.BaseClass -INFO - Entered username
+2021-11-01 10:27:34,005 - com.banking.testCases.BaseClass -INFO - Entered password
+2021-11-01 10:27:37,332 - com.banking.testCases.BaseClass -INFO - Test case failed
+2021-11-01 10:27:37,334 - com.banking.testCases.BaseClass -INFO - About to take screenshot
+2021-11-01 10:27:37,408 - com.banking.testCases.BaseClass -INFO - URL is opened
+2021-11-01 10:27:37,952 - com.banking.testCases.BaseClass -INFO - Entered username
+2021-11-01 10:27:38,087 - com.banking.testCases.BaseClass -INFO - Entered password
+2021-11-01 10:27:41,452 - com.banking.testCases.BaseClass -INFO - Test case failed
+2021-11-01 10:27:41,453 - com.banking.testCases.BaseClass -INFO - About to take screenshot
+2021-11-01 10:27:41,509 - com.banking.testCases.BaseClass -INFO - URL is opened
+2021-11-01 10:27:42,196 - com.banking.testCases.BaseClass -INFO - Entered username
+2021-11-01 10:27:42,338 - com.banking.testCases.BaseClass -INFO - Entered password
+2021-11-01 10:27:45,939 - com.banking.testCases.BaseClass -INFO - Test case Passed
+2021-11-01 10:53:12,198 - com.banking.testCases.BaseClass -INFO - URL is opened
+2021-11-01 10:53:12,401 - com.banking.testCases.BaseClass -INFO - Entered username
+2021-11-01 10:53:12,541 - com.banking.testCases.BaseClass -INFO - Entered password
+2021-11-01 10:53:13,122 - com.banking.testCases.BaseClass -INFO - Login test passed
+2021-11-01 10:53:17,351 - com.banking.testCases.BaseClass -INFO - URL is opened
+2021-11-01 10:53:17,449 - com.banking.testCases.BaseClass -INFO - Entered username
+2021-11-01 10:53:17,548 - com.banking.testCases.BaseClass -INFO - Entered password
+2021-11-01 10:53:20,904 - com.banking.testCases.BaseClass -INFO - Test case failed
+2021-11-01 10:53:20,906 - com.banking.testCases.BaseClass -INFO - About to take screenshot
+2021-11-01 10:53:21,010 - com.banking.testCases.BaseClass -INFO - URL is opened
+2021-11-01 10:53:21,664 - com.banking.testCases.BaseClass -INFO - Entered username
+2021-11-01 10:53:21,795 - com.banking.testCases.BaseClass -INFO - Entered password
+2021-11-01 10:53:25,107 - com.banking.testCases.BaseClass -INFO - Test case failed
+2021-11-01 10:53:25,108 - com.banking.testCases.BaseClass -INFO - About to take screenshot
+2021-11-01 10:53:25,178 - com.banking.testCases.BaseClass -INFO - URL is opened
+2021-11-01 10:53:25,929 - com.banking.testCases.BaseClass -INFO - Entered username
+2021-11-01 10:53:25,999 - com.banking.testCases.BaseClass -INFO - Entered password
+2021-11-01 10:53:29,254 - com.banking.testCases.BaseClass -INFO - Test case failed
+2021-11-01 10:53:29,255 - com.banking.testCases.BaseClass -INFO - About to take screenshot
+2021-11-01 10:53:29,296 - com.banking.testCases.BaseClass -INFO - URL is opened
+2021-11-01 10:53:29,953 - com.banking.testCases.BaseClass -INFO - Entered username
+2021-11-01 10:53:30,031 - com.banking.testCases.BaseClass -INFO - Entered password
+2021-11-01 10:53:33,371 - com.banking.testCases.BaseClass -INFO - Test case failed
+2021-11-01 10:53:33,372 - com.banking.testCases.BaseClass -INFO - About to take screenshot
+2021-11-01 10:53:33,424 - com.banking.testCases.BaseClass -INFO - URL is opened
+2021-11-01 10:53:33,954 - com.banking.testCases.BaseClass -INFO - Entered username
+2021-11-01 10:53:34,019 - com.banking.testCases.BaseClass -INFO - Entered password
+2021-11-01 10:53:37,299 - com.banking.testCases.BaseClass -INFO - Test case failed
+2021-11-01 10:53:37,300 - com.banking.testCases.BaseClass -INFO - About to take screenshot
+2021-11-01 10:53:37,348 - com.banking.testCases.BaseClass -INFO - URL is opened
+2021-11-01 10:53:37,884 - com.banking.testCases.BaseClass -INFO - Entered username
+2021-11-01 10:53:37,950 - com.banking.testCases.BaseClass -INFO - Entered password
+2021-11-01 10:53:41,535 - com.banking.testCases.BaseClass -INFO - Test case Passed
+2021-11-01 10:58:37,194 - com.banking.testCases.BaseClass -INFO - URL is opened
+2021-11-01 10:58:37,372 - com.banking.testCases.BaseClass -INFO - Entered username
+2021-11-01 10:58:37,506 - com.banking.testCases.BaseClass -INFO - Entered password
+2021-11-01 10:58:38,111 - com.banking.testCases.BaseClass -INFO - Login test passed
+2021-11-01 11:01:08,557 - com.banking.testCases.BaseClass -INFO - URL is opened
+2021-11-01 11:01:08,719 - com.banking.testCases.BaseClass -INFO - Entered username
+2021-11-01 11:01:08,867 - com.banking.testCases.BaseClass -INFO - Entered password
+2021-11-01 11:01:12,224 - com.banking.testCases.BaseClass -INFO - Test case failed
+2021-11-01 11:01:12,225 - com.banking.testCases.BaseClass -INFO - About to take screenshot
+2021-11-01 11:01:12,376 - com.banking.testCases.BaseClass -INFO - URL is opened
+2021-11-01 11:01:12,857 - com.banking.testCases.BaseClass -INFO - Entered username
+2021-11-01 11:01:12,935 - com.banking.testCases.BaseClass -INFO - Entered password
+2021-11-01 11:01:16,261 - com.banking.testCases.BaseClass -INFO - Test case failed
+2021-11-01 11:01:16,262 - com.banking.testCases.BaseClass -INFO - About to take screenshot
+2021-11-01 11:01:16,339 - com.banking.testCases.BaseClass -INFO - URL is opened
+2021-11-01 11:01:16,927 - com.banking.testCases.BaseClass -INFO - Entered username
+2021-11-01 11:01:16,992 - com.banking.testCases.BaseClass -INFO - Entered password
+2021-11-01 11:01:20,237 - com.banking.testCases.BaseClass -INFO - Test case failed
+2021-11-01 11:01:20,238 - com.banking.testCases.BaseClass -INFO - About to take screenshot
+2021-11-01 11:01:20,280 - com.banking.testCases.BaseClass -INFO - URL is opened
+2021-11-01 11:01:20,792 - com.banking.testCases.BaseClass -INFO - Entered username
+2021-11-01 11:01:20,859 - com.banking.testCases.BaseClass -INFO - Entered password
+2021-11-01 11:01:24,120 - com.banking.testCases.BaseClass -INFO - Test case failed
+2021-11-01 11:01:24,121 - com.banking.testCases.BaseClass -INFO - About to take screenshot
+2021-11-01 11:01:24,200 - com.banking.testCases.BaseClass -INFO - URL is opened
+2021-11-01 11:01:24,727 - com.banking.testCases.BaseClass -INFO - Entered username
+2021-11-01 11:01:24,797 - com.banking.testCases.BaseClass -INFO - Entered password
+2021-11-01 11:01:28,062 - com.banking.testCases.BaseClass -INFO - Test case failed
+2021-11-01 11:01:28,063 - com.banking.testCases.BaseClass -INFO - About to take screenshot
+2021-11-01 11:01:28,110 - com.banking.testCases.BaseClass -INFO - URL is opened
+2021-11-01 11:01:28,742 - com.banking.testCases.BaseClass -INFO - Entered username
+2021-11-01 11:01:28,810 - com.banking.testCases.BaseClass -INFO - Entered password
+2021-11-01 11:01:32,444 - com.banking.testCases.BaseClass -INFO - Test case Passed
+2021-11-01 11:05:07,776 - com.banking.testCases.BaseClass -INFO - URL is opened
+2021-11-01 11:05:07,940 - com.banking.testCases.BaseClass -INFO - Entered username
+2021-11-01 11:05:08,110 - com.banking.testCases.BaseClass -INFO - Entered password
+2021-11-01 11:05:11,609 - com.banking.testCases.BaseClass -INFO - Test case Passed
+2021-11-01 11:20:09,020 - com.banking.testCases.BaseClass -INFO - URL is opened
+2021-11-01 11:20:09,176 - com.banking.testCases.BaseClass -INFO - Entered username
+2021-11-01 11:20:09,311 - com.banking.testCases.BaseClass -INFO - Entered password
+2021-11-01 11:20:12,954 - com.banking.testCases.BaseClass -INFO - Test case Passed
+2021-11-01 11:23:52,758 - com.banking.testCases.BaseClass -INFO - URL is opened
+2021-11-01 11:23:52,911 - com.banking.testCases.BaseClass -INFO - Entered username
+2021-11-01 11:23:53,086 - com.banking.testCases.BaseClass -INFO - Entered password
+2021-11-01 11:23:56,775 - com.banking.testCases.BaseClass -INFO - Test case Passed
+2021-11-01 11:24:24,694 - com.banking.testCases.BaseClass -INFO - URL is opened
+2021-11-01 11:24:24,835 - com.banking.testCases.BaseClass -INFO - Entered username
+2021-11-01 11:24:24,979 - com.banking.testCases.BaseClass -INFO - Entered password
+2021-11-01 11:24:28,725 - com.banking.testCases.BaseClass -INFO - Test case Passed
+2021-11-01 11:24:58,081 - com.banking.testCases.BaseClass -INFO - URL is opened
+2021-11-01 11:24:58,234 - com.banking.testCases.BaseClass -INFO - Entered username
+2021-11-01 11:24:58,371 - com.banking.testCases.BaseClass -INFO - Entered password
+2021-11-01 11:25:02,076 - com.banking.testCases.BaseClass -INFO - Test case Passed
+2021-11-01 11:29:45,294 - com.banking.testCases.BaseClass -INFO - URL is opened
+2021-11-01 11:29:45,465 - com.banking.testCases.BaseClass -INFO - Entered username
+2021-11-01 11:29:45,607 - com.banking.testCases.BaseClass -INFO - Entered password
+2021-11-01 11:29:49,283 - com.banking.testCases.BaseClass -INFO - Test case Passed
+2021-11-01 11:31:45,680 - com.banking.testCases.BaseClass -INFO - URL is opened
+2021-11-01 11:31:45,852 - com.banking.testCases.BaseClass -INFO - Entered username
+2021-11-01 11:31:45,963 - com.banking.testCases.BaseClass -INFO - Entered password
+2021-11-01 11:31:49,623 - com.banking.testCases.BaseClass -INFO - Test case Passed
+2021-11-01 13:50:09,856 - com.banking.testCases.BaseClass -INFO - URL is opened
+2021-11-01 13:50:10,008 - com.banking.testCases.BaseClass -INFO - Entered username
+2021-11-01 13:50:10,169 - com.banking.testCases.BaseClass -INFO - Entered password
+2021-11-01 13:50:13,717 - com.banking.testCases.BaseClass -INFO - Test case Passed
+2021-11-01 13:51:42,098 - com.banking.testCases.BaseClass -INFO - URL is opened
+2021-11-01 13:51:42,233 - com.banking.testCases.BaseClass -INFO - Entered username
+2021-11-01 13:51:42,333 - com.banking.testCases.BaseClass -INFO - Entered password
+2021-11-01 13:51:45,826 - com.banking.testCases.BaseClass -INFO - Test case Passed
+2021-11-01 13:57:36,841 - com.banking.testCases.BaseClass -INFO - URL is opened
+2021-11-01 13:57:36,996 - com.banking.testCases.BaseClass -INFO - Entered username
+2021-11-01 13:57:37,149 - com.banking.testCases.BaseClass -INFO - Entered password
+2021-11-01 13:57:40,736 - com.banking.testCases.BaseClass -INFO - Test case Passed
+2021-11-01 14:16:59,194 - com.banking.testCases.BaseClass -INFO - URL is opened
+2021-11-01 14:16:59,345 - com.banking.testCases.BaseClass -INFO - Entered username
+2021-11-01 14:16:59,491 - com.banking.testCases.BaseClass -INFO - Entered password
+2021-11-01 14:17:03,045 - com.banking.testCases.BaseClass -INFO - Test case Passed
